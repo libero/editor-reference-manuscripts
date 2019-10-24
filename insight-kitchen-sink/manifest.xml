@@ -1,0 +1,8 @@
+<dar>
+  <documents>
+    <document id="manuscript" type="article" path="elife-00001.xml" />
+  </documents>
+  <assets>
+    <asset id="placeholder" type="image/png" path="placeholder.png"/>
+  </assets>
+</dar>
