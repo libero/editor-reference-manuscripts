@@ -12,4 +12,4 @@ clean:
 
 %.dar: ${shell find ./manuscripts/${@:.dar=}/*}
 	@echo "Packaging $@"
-	@cd ${CURDIR}/manuscripts/${@:.dar=} && zip ../../$@ ./*
+	@cd ${CURDIR}/manuscripts/${@:.dar=} && zip ${CURDIR}/$@ ./*
