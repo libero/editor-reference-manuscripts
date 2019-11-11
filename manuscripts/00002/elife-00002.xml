@@ -79,7 +79,7 @@
       <graphic mime-subtype="x-tiff" mimetype="image" xlink:href="elife-00002-fig1.tif"/>
     </fig>
     <p>Etiam nunc eros, porttitor tincidunt libero eu (<xref ref-type="bibr" rid="bib10">Li, 2013</xref>), varius pretium nibh (<xref ref-type="bibr" rid="bib12">Miller et al., 2011</xref>; <xref ref-type="bibr" rid="bib14">Murray et al., 2019</xref>; <xref ref-type="bibr" rid="bib15">Onoda, 2015</xref>). Curabitur nibh libero, gravida eu ex vel, rhoncus finibus est. Aliquam viverra augue vel posuere tempus (proin pharetra posuere eros vitae semper [<xref ref-type="bibr" rid="bib11">Linares, 2019</xref>]). Duis aliquam ac ex non tristique. Nulla dignissim vel ipsum at vulputate (<xref ref-type="bibr" rid="bib13">Mulvihill, 2010</xref>; <xref ref-type="bibr" rid="bib22">World Health Organization, 2015</xref>). Nam orci ipsum, dapibus ac sagittis non, blandit non enim (<xref ref-type="bibr" rid="bib16">R Development Core Team, 2014</xref>).</p>
-    <p>Phasellus ac nisl a erat congue fringilla. Maecenas nulla leo, viverra ut tortor at, tristique maximus urna. Aenean commodo mauris sapien, a vulputate sapien porttitor nec (see <xref ref-type="fig" rid="fig1 fig2">Figures 1 and 2</xref>). Integer id aliquam libero. Duis euismod velit augue, id ultricies enim varius sit amet.</p>
+    <p>Phasellus ac nisl a erat congue fringilla. Maecenas nulla leo <xref ref-type="bibr" rid="bib26">Zz et al. (2019)</xref>, viverra ut tortor at, tristique maximus urna. Aenean commodo mauris sapien, a vulputate sapien porttitor nec (see <xref ref-type="fig" rid="fig1 fig2">Figures 1 and 2</xref>). Integer id aliquam libero. Duis euismod velit augue, id ultricies enim varius sit amet.</p>
     <fig id="fig2" position="float">
       <label>Figure 2.</label>
       <caption>
@@ -674,6 +674,19 @@
               <pub-id pub-id-type="doi">10.7554/eLife.00067</pub-id>
               <pub-id pub-id-type="pmid">00030000</pub-id>
               <pub-id pub-id-type="pmcid">PMC00005</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="bib26">
+            <element-citation publication-type="journal">
+              <person-group person-group-type="author">
+                <name><surname>Zz</surname> <given-names>J</given-names></name>
+                <name><surname>Daniel</surname> <given-names>CR</given-names></name>
+                <name><surname>Hess</surname> <given-names>KR</given-names></name>
+              </person-group>
+              <year iso-8601-date="2019">2019</year>
+              <article-title>The association of BMI and outcomes in metastatic melanoma: a retrospective, multicohort analysis of patients treated with targeted therapy, immunotherapy, or chemotherapy</article-title>
+              <source>The Lancet. Oncology</source>
+              <comment>In press</comment>
             </element-citation>
           </ref>
             </ref-list>
