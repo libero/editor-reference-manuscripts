@@ -580,6 +580,19 @@
               <source>Cognitive Science Society</source>
             </element-citation>
           </ref>
+          <ref id="bib25">
+            <element-citation publication-type="journal">
+              <person-group person-group-type="author">
+                <name><surname>Zz</surname> <given-names>J</given-names></name>
+                <name><surname>Daniel</surname> <given-names>CR</given-names></name>
+                <name><surname>Hess</surname> <given-names>KR</given-names></name>
+              </person-group>
+              <year iso-8601-date="2018">2018</year>
+              <article-title>The association of BMI and outcomes in metastatic melanoma: a retrospective, multicohort analysis of patients treated with targeted therapy, immunotherapy, or chemotherapy</article-title>
+              <source>The Lancet. Oncology</source>
+              <comment>In press</comment>
+            </element-citation>
+          </ref>
             </ref-list>
     </back>
 </article>
