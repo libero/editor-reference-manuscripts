@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN"  "JATS-archivearticle1.dtd">
+<article article-type="article-commentary" dtd-version="1.2" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title>Example eLife Insight article with a reference 'journal' citation</article-title>
+      </title-group>
+      <abstract />
+    </article-meta>
+  </front>
+  <body>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="bib1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berk</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Fong</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Dempsey</surname>
+              <given-names>GT</given-names>
+            </name>
+            <name>
+              <surname>Develioglu</surname>
+              <given-names>ON</given-names>
+            </name>
+            <name>
+              <surname>Zhuang</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Liphardt</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Yildiz</surname>
+              <given-names>FH</given-names>
+            </name>
+            <name>
+              <surname>Chu</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <article-title>Molecular architecture and assembly principles of <italic>Vibrio cholerae</italic> biofilms</article-title>
+          <source>Science</source>
+          <volume>337</volume>
+          <fpage>236</fpage>
+          <lpage>239</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

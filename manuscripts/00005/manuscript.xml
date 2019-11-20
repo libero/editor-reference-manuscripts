@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN"  "JATS-archivearticle1.dtd">
+<article article-type="article-commentary" dtd-version="1.2" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title>Example eLife Insight article with a reference 'conference' citation</article-title>
+      </title-group>
+      <abstract />
+    </article-meta>
+  </front>
+  <body>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+        <ref id="bib1">
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Pfeiffer</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2011">2011</year>
+          <article-title>The CIPRES science gateway: a community resource for phylogenetic analyses</article-title>
+          <conf-name>Proceedings of the 2011 TeraGrid Conference: Extreme Digital Discovery</conf-name>
+          <conf-loc>Salt Lake City, Utah</conf-loc>
+          <fpage>1</fpage>
+          <lpage>8</lpage>
+          <ext-link ext-link-type="uri" xlink:href="https://dl.acm.org/citation.cfm?doid=2016741.2016785">https://dl.acm.org/citation.cfm?doid=2016741.2016785</ext-link>
+        </element-citation>
+      </ref> 
+    </ref-list>
+  </back>
+</article>

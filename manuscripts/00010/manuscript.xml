@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN"  "JATS-archivearticle1.dtd">
+<article article-type="article-commentary" dtd-version="1.2" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title>Example eLife Insight article with a reference 'patent' citation</article-title>
+      </title-group>
+      <abstract />
+    </article-meta>
+  </front>
+  <body>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="bib1">
+        <element-citation publication-type="patent">
+          <person-group person-group-type="inventor">
+            <name>
+              <surname>Onoda</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2015">2015</year>
+          <article-title>Imidazopyridine Derivative</article-title>
+          <source>World Intellectual Property Organization</source>
+          <patent country="Japan">2015087996</patent>
+          <ext-link ext-link-type="uri" xlink:href="https://patents.google.com/patent/WO2015087996A1/en">https://patents.google.com/patent/WO2015087996A1/en</ext-link>
+        </element-citation>
+      </ref> 
+    </ref-list>
+  </back>
+</article>

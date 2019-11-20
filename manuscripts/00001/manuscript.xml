@@ -13,8 +13,8 @@
             </publisher>
         </journal-meta>
         <article-meta>
-            <article-id pub-id-type="publisher-id">00002</article-id>
-            <article-id pub-id-type="doi">10.7554/eLife.00002</article-id>
+            <article-id pub-id-type="publisher-id">00001</article-id>
+            <article-id pub-id-type="doi">10.7554/eLife.00001</article-id>
             <article-categories>
                 <subj-group subj-group-type="display-channel">
                     <subject>Insight</subject>
@@ -30,7 +30,7 @@
                 </subj-group>
             </article-categories>
             <title-group>
-                <article-title>Insight kitchen sink</article-title>
+                <article-title>Example eLife Insight article with a complete reference 'back' section</article-title>
             </title-group>
             <contrib-group content-type="authors">
                 <contrib contrib-type="author" corresp="yes">
@@ -56,79 +56,6 @@
             </author-notes>
         </article-meta>
     </front>
-  <body>
-    <boxed-text><p><bold>Related research article</bold> Srinivasan S, Kaplan CN, Mahadevan L. 2019. A multiphase theory for spreadingmicrobial swarms and films. <italic>eLife</italic> <bold>8</bold>:e42697. doi: <ext-link ext-link-type="uri" xlink:href="http://doi.org/10.7554/eLife.42697">10.7554/eLife.42697</ext-link></p><p><bold>Related research article</bold> Zoolander D, Hansel, Mugatu J. 2019. Second related article title (if present). <italic>eLife</italic> <bold>8</bold>:e00067. doi: <ext-link ext-link-type="uri" xlink:href="http://doi.org/10.7554/eLife.00067">10.7554/eLife.00067</ext-link></p></boxed-text>
-    <p>Lorem ipsum dolor <italic>sit amet</italic>, consectetur adipiscing elit (<xref ref-type="bibr" rid="bib20">Srinivasan et al., 2019</xref>; <xref ref-type="bibr" rid="bib25">Zoolander et al., 2019</xref>). Etiam imperdiet tortor nec enim feugiat euismod <xref ref-type="bibr" rid="bib2">Feyerabend (2010)</xref>. Etiam malesuada tristique quam non fringilla (<xref ref-type="bibr" rid="bib3">Foley et al., 2018</xref>). Curabitur sem neque, pretium et lorem ac, porta lobortis nisl. Curabitur suscipit semper sodales. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus cursus faucibus felis, consequat rutrum neque vehicula eget (<ext-link ext-link-type="uri" xlink:href="http://www.broadinstitute.org/igv/">http://www.broadinstitute.org/igv/</ext-link>). Donec in neque et ligula tristique semper id sit amet quam. Proin varius, arcu posuere faucibus rhoncus, leo neque porttitor augue, sit amet cursus neque neque quis turpis. Maecenas dignissim aliquam orci, maximus scelerisque nisl imperdiet in. (<xref ref-type="bibr" rid="bib1">Berk et al., 2012</xref>; <xref ref-type="bibr" rid="bib4">Gavrilov et al., 2014</xref>; <xref ref-type="bibr" rid="bib24">Zhang et al., 2014</xref>).</p>
-    <list list-type="bullet">
-      <list-item><p>First entry</p>
-        <list list-type="bullet">
-          <list-item><p>First sub-entry</p></list-item>
-          <list-item><p>Second sub-entry</p>
-          </list-item>
-        </list>
-      </list-item>
-      <list-item><p>Second entry</p></list-item>
-    </list>
-    <p><xref ref-type="bibr" rid="bib5">Harmon (2019)</xref> integer suscipit purus a semper dictum . Duis finibus elementum ex sit amet pulvinar (<xref ref-type="bibr" rid="bib5">Harmon, 2019</xref>; <xref ref-type="bibr" rid="bib7">Heissler and Sellers, 2016b</xref>). Cras <xref ref-type="bibr" rid="bib7">Heissler and Sellers (2016b)</xref> nec est in sem iaculis fermentum (<xref ref-type="bibr" rid="bib8">Hogarth et al., 2012</xref>). Aenean sit amet turpis pulvinar, ornare nisl ac, porta nisl. Vivamus sit amet maximus elit (<xref ref-type="fig" rid="fig1">Figure 1</xref>). Duis a ultrices augue. Duis id ipsum iaculis, imperdiet leo a, cursus purus (<xref ref-type="bibr" rid="bib9">Kok et al., 2015</xref>).</p>
-    <fig id="fig1" position="float">
-      <label>Figure 1.</label>
-      <caption>
-        <title>Bacterial cells on the surface of a plant leaf.</title>
-        <p>Pellentesque porta interdum sodales (<xref ref-type="bibr" rid="bib6">Heissler and Sellers, 2016a</xref>). Vestibulum<sub>id</sub> interdum<sup>felis</sup>. <bold>Vestibulum</bold> at <underline>viverra</underline> lorem. <sc>Aliquam Gravida</sc> nulla orci, quis tristique tortor ornare at <ext-link ext-link-type="uri" xlink:href="https://www.biobam.com/">https://www.biobam.com/</ext-link>. Pellentesque accumsan sed ipsum eget hendrerit (<xref ref-type="bibr" rid="bib3">Foley et al., 2018</xref>). Pellentesque cursus, nibh eu <monospace>mattis condimentum</monospace>, massa libero faucibus enim, et tempor orci neque eget<sup>mi</sup>. Phasellus lacus<sub>mi</sub>, ultrices quis placerat id, dignissim ac erat.</p>
-      </caption>
-      <graphic mime-subtype="x-tiff" mimetype="image" xlink:href="elife-00002-fig1.tif"/>
-    </fig>
-    <p>Etiam nunc eros, porttitor tincidunt libero eu (<xref ref-type="bibr" rid="bib10">Li, 2013</xref>), varius pretium nibh (<xref ref-type="bibr" rid="bib12">Miller et al., 2011</xref>; <xref ref-type="bibr" rid="bib14">Murray et al., 2019</xref>; <xref ref-type="bibr" rid="bib15">Onoda, 2015</xref>). Curabitur nibh libero, gravida eu ex vel, rhoncus finibus est. Aliquam viverra augue vel posuere tempus (proin pharetra posuere eros vitae semper [<xref ref-type="bibr" rid="bib11">Linares, 2019</xref>]). Duis aliquam ac ex non tristique. Nulla dignissim vel ipsum at vulputate (<xref ref-type="bibr" rid="bib13">Mulvihill, 2010</xref>; <xref ref-type="bibr" rid="bib22">World Health Organization, 2015</xref>). Nam orci ipsum, dapibus ac sagittis non, blandit non enim (<xref ref-type="bibr" rid="bib16">R Development Core Team, 2014</xref>).</p>
-    <p>Phasellus ac nisl a erat congue fringilla. Maecenas nulla leo <xref ref-type="bibr" rid="bib26">Zz et al. (2019)</xref>, viverra ut tortor at, tristique maximus urna. Aenean commodo mauris sapien, a vulputate sapien porttitor nec (see <xref ref-type="fig" rid="fig1 fig2">Figures 1 and 2</xref>). Integer id aliquam libero. Duis euismod velit augue, id ultricies enim varius sit amet.</p>
-    <fig id="fig2" position="float">
-      <label>Figure 2.</label>
-      <caption>
-        <title>The dynamics of memory T cells.</title>
-      </caption>
-      <graphic xlink:href="elife-00002-fig2.tif" mimetype="image" mime-subtype="x-tiff"/>
-      <permissions>
-        <copyright-statement xml:lang="en">© 2010 Verso</copyright-statement>
-        <copyright-year>2015</copyright-year>
-        <copyright-holder xml:lang="en">Verso</copyright-holder>
-        <license xml:lang="en">
-          <license-p>Panel A reprinted from <xref ref-type="bibr" rid="bib2">Feyerabend (2010)</xref> with permission.</license-p>
-        </license>
-      </permissions>
-      <permissions>
-        <copyright-statement>&#x00A9; 2007, Seans Potato Business, Wikimedia Commons, Creative Commons Attribution-Share Alike 3.0 Unported</copyright-statement>
-        <copyright-year>2007</copyright-year>
-        <copyright-holder>Seans Potato Business, Wikimedia Commons</copyright-holder>
-        <license>
-          <license-p>Mouse used in Figure 1 parts B-C is reproduced with permission from Seans Potato Business.</license-p>
-        </license>
-      </permissions>
-    </fig>
-    <p>Integer in dui quis velit iaculis rhoncus (European Galaxy Server <ext-link ext-link-type="uri" xlink:href="https://usegalaxy.eu">https://usegalaxy.eu</ext-link>). Vestibulum nec nulla eget nisi <xref ref-type="bibr" rid="bib18">Schwartz, (19933</xref> cursus dignissim non sed felis (donec tincidunt vulputate lectus non malesuada [<xref ref-type="bibr" rid="bib20">Srinivasan et al., 2019</xref>; <xref ref-type="bibr" rid="bib21">Wahls, 2016</xref>]). Nulla condimentum porttitor arcu a posuere. Duis dictum diam sit amet mauris elementum luctus. Mauris placerat arcu ut lobortis ultricies. Nunc ultricies, ante eget mollis viverra, elit urna feugiat nibh, malesuada dictum nulla est at lorem. Proin id ligula ligula. Nulla eu risus porta, ornare eros id, sodales risus(<xref ref-type="bibr" rid="bib17">Read, 2015</xref>; <xref ref-type="bibr" rid="bib19">Spangler, 2014</xref>). Proin id metus in neque rutrum venenatis eget sed ante (<xref ref-type="bibr" rid="bib23">Walker, 1994</xref>). Pellentesque nec justo a orci sodales dapibus. Etiam quis felis feugiat, lobortis dui semper, imperdiet est.</p>
-    <p>The resolution of a microscope, <inline-formula><tex-math id="inf1"><![CDATA[d]]></tex-math></inline-formula>, is defined as the shortest distance between two points on a specimen that can still be seen as two distinct points in the image. In 1873 Ernst Abbe showed that diffraction limited the resolution of a microscope to <inline-formula><tex-math id="inf2"><![CDATA[d=\frac{\lambda}{2 n \sin \alpha}]]></tex-math></inline-formula>, where <inline-formula><tex-math id="inf3"><![CDATA[\lambda]]></tex-math></inline-formula> is the wavelength of the light, <inline-formula><tex-math id="inf4"><![CDATA[n]]></tex-math></inline-formula> is the refractive index of the medium the light travels through, and <inline-formula><tex-math id="inf5"><![CDATA[\alpha]]></tex-math></inline-formula> is the half-angle at which the objective captures light from the sample: <inline-formula><tex-math id="inf6"><![CDATA[n \sin \alpha]]></tex-math></inline-formula> is also known as the &quot;numerical aperture&quot; of the objective.</p>
-    <p>Cras at diam eu mauris scelerisque fermentum <inline-formula><tex-math id="inf7"><![CDATA[p(\hat{\theta})=(1-\gamma) \phi_{k}(\hat{\theta}-\theta)+\gamma \frac{1}{2 \pi}]]></tex-math></inline-formula>. Sed semper mauris eget nulla faucibus, sed ultricies ligula pellentesque. Donec posuere mi non quam dapibus egestas scelerisque non magna. Vestibulum sit amet bibendum tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus (<xref ref-type="bibr" rid="bib1">Berk et al., 2012</xref>; <xref ref-type="bibr" rid="bib4">Gavrilov et al., 2014</xref>; <xref ref-type="bibr" rid="bib24">Zhang et al., 2014</xref>).</p>
-    <p>Praesent lobortis tempus nisi ac pulvinar (<xref ref-type="bibr" rid="bib15">Onoda, 2015</xref>). Praesent at nulla ac lorem faucibus finibus. Ut vel maximus tortor, in dictum arcu. Proin condimentum felis eu dignissim posuere. Vivamus a tincidunt justo, eu eleifend mauris. Mauris porttitor erat eu purus dignissim, sed consectetur odio pharetra. Integer a lorem commodo, tempus nulla sed, vehicula metus. Nunc laoreet erat sed nibh iaculis aliquam. Nullam maximus ligula eu sem dictum dignissim.</p>
-    <fig id="fig3" position="float">
-      <caption>
-        <title>Rats raised socially seek out more new experiences and their cells age more slowly.</title>
-      </caption>
-      <graphic mime-subtype="x-tiff" mimetype="image" xlink:href="elife-00002-fig3.tif"/>
-      <attrib>Image credit: Peggy Mason</attrib>
-    </fig>
-    <list list-type="order">
-      <list-item><p>First entry</p>
-        <list list-type="bullet">
-          <list-item><p>First sub-entry</p></list-item>
-          <list-item><p>Second sub-entry</p>
-          </list-item>
-        </list>
-      </list-item>
-      <list-item><p>Second entry</p></list-item>
-    </list>
-    <sec id="s1">
-      <title>Disclaimer</title>
-      <p>The content of this publication does not necessarily reflect the views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial products, or organizations imply endorsement by the US Government.</p>
-    </sec>
-  </body>
     <back>
         <ack id="ack">
             <title>Acknowledgements</title>
@@ -656,34 +583,11 @@
           <ref id="bib25">
             <element-citation publication-type="journal">
               <person-group person-group-type="author">
-                <name>
-                  <surname>Zoolander</surname> <given-names>D</given-names>
-                </name>
-                <name>
-                  <surname>Hansel</surname>
-                </name>
-                <name>
-                  <surname>Mugatu</surname> <given-names>J</given-names>
-                </name>
-              </person-group>
-              <year iso-8601-date="2019">2019</year>
-              <article-title>Second related article title (if present)</article-title>
-              <source>eLife</source>
-              <volume>8</volume>
-              <elocation-id>e00067</elocation-id>
-              <pub-id pub-id-type="doi">10.7554/eLife.00067</pub-id>
-              <pub-id pub-id-type="pmid">00030000</pub-id>
-              <pub-id pub-id-type="pmcid">PMC00005</pub-id>
-            </element-citation>
-          </ref>
-          <ref id="bib26">
-            <element-citation publication-type="journal">
-              <person-group person-group-type="author">
                 <name><surname>Zz</surname> <given-names>J</given-names></name>
                 <name><surname>Daniel</surname> <given-names>CR</given-names></name>
                 <name><surname>Hess</surname> <given-names>KR</given-names></name>
               </person-group>
-              <year iso-8601-date="2019">2019</year>
+              <year iso-8601-date="2018">2018</year>
               <article-title>The association of BMI and outcomes in metastatic melanoma: a retrospective, multicohort analysis of patients treated with targeted therapy, immunotherapy, or chemotherapy</article-title>
               <source>The Lancet. Oncology</source>
               <comment>In press</comment>
