@@ -26,7 +26,31 @@
           <publisher-name>University of California, Berkeley</publisher-name>
           <ext-link ext-link-type="uri" xlink:href="https://escholarship.org/uc/item/7xc2p94p">https://escholarship.org/uc/item/7xc2p94p</ext-link>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname> 
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2003">2003</year>
+          <article-title>Surveying Coral Reefs in Situ</article-title>
+          <publisher-name>University of Northumbria</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <collab>Institute of Ethical Practices</collab>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>Ethical behaviour patterns in UK politics during the 21st century</article-title>
+          <publisher-name>University of Northumbria</publisher-name>
+          <publisher-loc>Newcastle</publisher-loc>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

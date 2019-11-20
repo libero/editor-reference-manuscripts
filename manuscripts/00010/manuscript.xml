@@ -27,7 +27,31 @@
           <patent country="Japan">2015087996</patent>
           <ext-link ext-link-type="uri" xlink:href="https://patents.google.com/patent/WO2015087996A1/en">https://patents.google.com/patent/WO2015087996A1/en</ext-link>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="patent">
+          <person-group person-group-type="inventor">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>Libero Editor</article-title>
+          <source>eLife</source>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="patent">
+          <person-group person-group-type="inventor">
+            <collab>World Health Organization</collab>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>J-Coli</article-title>
+          <source>WHO</source>
+          <patent>123456789</patent>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

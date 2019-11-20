@@ -27,7 +27,37 @@
           <fpage>A1</fpage>
           <lpage>A4</lpage>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="periodical">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wahls</surname> 
+              <given-names>WP</given-names>
+            </name>
+          </person-group>
+          <string-date iso-8601-date="2016-10-03"><month>October</month> <day>3</day>, <year>2016</year></string-date>
+          <article-title>Send my tax dollars to Mississippi</article-title>
+          <source>ASBMB Today</source>
+          <volume>15</volume>
+          <fpage>24</fpage>
+          <lpage>25</lpage>
+          <ext-link ext-link-type="uri" xlink:href="https://www.asbmb.org/asbmbtoday/201610/Essay/">https://www.asbmb.org/asbmbtoday/201610/Essay/</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="periodical">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname> 
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <string-date><year iso-8601-date="2016">2016</year></string-date>
+          <article-title>Is <italic>Libero Editor</italic> the future for XML editors</article-title>
+          <source>eLife</source>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

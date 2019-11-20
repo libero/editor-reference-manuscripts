@@ -26,7 +26,29 @@
           <ext-link ext-link-type="uri" xlink:href='https://www.fourmilab.ch/solar/'>https://www.fourmilab.ch/solar/</ext-link>
           <date-in-citation iso-8601-date="1995-09-10">September 10, 1995</date-in-citation>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <collab>Libero</collab>
+          </person-group>
+          <article-title>10 best online XML editors of 2019</article-title>
+          <ext-link ext-link-type="uri" xlink:href='https://libero.pub/'>https://libero.pub/</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="web">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>Joel William</given-names>
+            </name>
+          </person-group>
+          <article-title>Introduction to Libero Producer</article-title>
+          <source>Libero</source>
+          <ext-link ext-link-type="uri" xlink:href='https://libero.pub/'>https://libero.pub/</ext-link>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

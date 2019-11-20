@@ -13,7 +13,7 @@
   <back>
     <ref-list>
       <title>References</title>
-        <ref id="bib1">
+      <ref id="bib1">
         <element-citation publication-type="confproc">
           <person-group person-group-type="author">
             <name>
@@ -37,7 +37,100 @@
           <lpage>8</lpage>
           <ext-link ext-link-type="uri" xlink:href="https://dl.acm.org/citation.cfm?doid=2016741.2016785">https://dl.acm.org/citation.cfm?doid=2016741.2016785</ext-link>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spangler</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2014">2014</year>
+          <article-title>Automated hypothesis generation based on mining scientific literature</article-title>
+          <conf-name>Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining</conf-name>
+          <fpage>1877</fpage>
+          <lpage>1886</lpage>
+          <pub-id pub-id-type="doi">10.1145/2623330.2623667</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <collab>Insitute of totally awesome developers</collab>
+          </person-group>
+          <year iso-8601-date="2014">2014</year>
+          <article-title>Awesome development, a practical guide</article-title>
+          <conf-name>Awesome</conf-name>
+          <volume>1</volume>
+          <elocation-id>e42697</elocation-id>
+          <fpage>1877</fpage>
+          <lpage>1886</lpage>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aubry</surname>
+              <given-names>M</given-names>
+            </name><name>
+              <surname>Teissier</surname>
+              <given-names>A</given-names>
+            </name><name>
+              <surname>Roche</surname>
+              <given-names>C</given-names>
+            </name><name>
+              <surname>Teururai</surname>
+              <given-names>S</given-names>
+            </name><name>
+              <surname>Desprès</surname>
+              <given-names>P</given-names>
+            </name><name>
+              <surname>Mallet</surname>
+              <given-names>H</given-names>
+            </name><name>
+              <surname>Merceron</surname>
+              <given-names>S</given-names>
+            </name><name>
+              <surname>Huart</surname>
+              <given-names>M</given-names>
+            </name><name>
+              <surname>Sicard</surname>
+              <given-names>S</given-names>
+            </name><name>
+              <surname>Deparis</surname>
+              <given-names>X</given-names>
+            </name><name>
+              <surname>Musso</surname>
+              <given-names>D</given-names>
+            </name><name>
+              <surname>Cao-Lormeau</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2015">2015b</year>
+          <article-title><italic>Serosurvey of Dengue, Zika and Other Mosquito-Borne Viruses in French Polynesia</italic></article-title>
+          <source>Poster 765</source>
+          <conf-loc>Philadelphia, PA, USA</conf-loc>
+          <conf-name>64th Annual Meeting of the American Society of Tropical Medicine and Hygiene</conf-name>
+          <conf-date>Oct 25–29</conf-date>
+          <ext-link ext-link-type="uri" xlink:href="http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2e5199c4-aceb-4d61-8769-342586917c5a&amp;cKey=74ffe328-3a83-4f28-84c6-5656971501c8&amp;mKey=%7bAB652FDF-0111-45C7-A5E5-0BA9D4AF5E12%7d">http://www.abstractsonline.com/Plan/ViewAbstract.aspx?sKey=2e5199c4-aceb-4d61-8769-342586917c5a&amp;cKey=74ffe328-3a83-4f28-84c6-5656971501c8&amp;mKey=%7bAB652FDF-0111-45C7-A5E5-0BA9D4AF5E12%7d</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="confproc">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2014">2014</year>
+          <article-title>Is Libero Editor the tool for you</article-title>
+          <conf-name>J-Con</conf-name>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

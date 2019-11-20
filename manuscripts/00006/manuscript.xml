@@ -35,7 +35,103 @@
           <pub-id pub-id-type="accession" assigning-authority="NCBI" xlink:href="http://www.ncbi.nlm.nih.gov/nuccore/120407038">NM_009324</pub-id>
           <version designator="NM_009324.2">NM_009324.2</version>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="data" specific-use="supporting">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kok</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Ay</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <data-title>Genome-wide errant targeting by Hairy</data-title>
+          <source>Dryad Digital Repository</source>
+          <year iso-8601-date="2015">2015</year>
+          <pub-id assigning-authority="Dryad" pub-id-type="doi">10.5061/dryad.53sq7kn</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="data" specific-use="supporting">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mulvihill</surname>
+              <given-names>DP</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2010">2010</year>
+          <data-title>TORC2 dependent phosphorylation modulates calcium regulation of fission yeast myosin</data-title>
+          <source>Kent Data Repository</source>
+          <pub-id assigning-authority="other" pub-id-type="archive" xlink:href="https://data.kent.ac.uk/60/">60</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <element-citation publication-type="data" specific-use="supporting" id="bib45">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Read</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <data-title>Sizing the Problem of Improving Discovery and Access to NIH-funded Data: A Preliminary Study (Datasets)</data-title>
+          <source>Figshare</source>
+          <year iso-8601-date="2015">2015</year>
+          <pub-id assigning-authority="figshare" pub-id-type="doi">10.6084/m9.figshare.1285515</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <element-citation publication-type="data" specific-use="generated">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <data-title>Texture source map files</data-title>
+          <source>eLife</source>
+        </element-citation>
+      </ref>
+      <ref id="bib5">
+        <element-citation id="dataset2" publication-type="data" specific-use="generated">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davide</surname>
+              <given-names>Folloni</given-names>
+            </name>
+            <name>
+              <surname>Jerome</surname>
+              <given-names>Sallet</given-names>
+            </name>
+            <name>
+              <surname>Alexandre</surname>
+              <given-names>A Khrapitchev</given-names>
+            </name>
+            <name>
+              <surname>Nicola</surname>
+              <given-names>Sibson</given-names>
+            </name>
+            <name>
+              <surname>Lennart</surname>
+              <given-names>Verhagen</given-names>
+            </name>
+            <name>
+              <surname>Rogier</surname>
+              <given-names>B Mars</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <data-title>Oxford WIN macaque PM</data-title>
+          <source>PRIMatE Data Exchange</source>
+          <pub-id assigning-authority="other" pub-id-type="archive" xlink:href="http://fcon_1000.projects.nitrc.org/indi/PRIME/oxford2.html">oxford2</pub-id>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

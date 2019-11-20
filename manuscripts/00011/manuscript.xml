@@ -24,7 +24,32 @@
           <publisher-name>R Foundation for Statistical Computing</publisher-name>
           <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org/">http://www.R-project.org/</ext-link>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Linares</surname> <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <source>Data and Code for 'Decoupling Sensory From Decisional Choice Biases in Perceptual Decision Making'</source>
+          <version designator="3e48e64">3e48e64</version>
+          <publisher-name>GitHub</publisher-name>
+          <ext-link ext-link-type="uri" xlink:href="https://github.com/danilinares/2018LinaresAguilarLopezmoliner">https://github.com/danilinares/2018LinaresAguilarLopezmoliner</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="software">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <source>The Bowels of Texture</source>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

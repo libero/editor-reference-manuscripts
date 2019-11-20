@@ -24,7 +24,20 @@
           <publisher-name>World Health Organization</publisher-name>
           <ext-link ext-link-type="uri" xlink:href="http://www.who.int/malaria/publications/world-malaria-report-2015/en/">http://www.who.int/malaria/publications/world-malaria-report-2015/en/</ext-link>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2015">2015</year>
+          <source>Employee Survey</source>
+          <publisher-name>eLife</publisher-name>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

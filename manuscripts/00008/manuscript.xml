@@ -24,10 +24,35 @@
           <year iso-8601-date="2013">2013</year>
           <article-title>Aligning sequence reads clone sequences and assembly contigs with BWA-MEM</article-title>
           <source>arXiv</source>
-          <elocation-id>1303.3997}</elocation-id>
+          <elocation-id>1303.3997</elocation-id>
           <ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/1303.3997">https://arxiv.org/abs/1303.3997</ext-link>
         </element-citation>
-      </ref> 
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="pre-print">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Murray</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>Gender and international diversity improves equity in peer review</article-title>
+          <source>bioRxiv</source>
+          <elocation-id>400515</elocation-id>
+          <pub-id pub-id-type="doi">10.1101/400515</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="pre-print">
+          <person-group person-group-type="author">
+            <collab>Institute of Destruction</collab>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>The fall of mankind</article-title>
+          <source>eLife</source>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

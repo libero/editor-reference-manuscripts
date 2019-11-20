@@ -55,7 +55,22 @@
             <pub-id pub-id-type="doi">10.1017/CBO9780511977930.001</pub-id>
             <pub-id pub-id-type="isbn">9780511977930</pub-id>
           </element-citation>
-        </ref> 
+        </ref>
+        <ref id="bib2">
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Summerfield</surname>
+                <given-names>JW</given-names>
+              </name>
+              <collab>J S W Enterprises Ltd</collab>
+            </person-group>
+            <year iso-8601-date="2019">2019</year>
+            <chapter-title>Getting Started</chapter-title>
+            <source>Libero Editor</source>
+            <publisher-name>eLife Sciences Ltd</publisher-name>
+          </element-citation>
+        </ref>
       </ref-list>
   </back>
 </article>

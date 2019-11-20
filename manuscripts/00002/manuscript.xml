@@ -57,6 +57,60 @@
           <lpage>239</lpage>
         </element-citation>
       </ref>
+      <ref id="bib2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+                <surname>Srinivasan</surname>
+                <given-names>S</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>A multiphase theory for spreadingmicrobial swarms and films</article-title>
+          <source>eLife</source>
+          <volume>8</volume>
+          <elocation-id>e42697</elocation-id>
+          <pub-id pub-id-type="doi">10.7554/eLife.42697</pub-id>
+          <pub-id pub-id-type="pmid">31038122</pub-id>
+          <pub-id pub-id-type="pmcid">PMC12345</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+              <name>
+                <surname>Gong</surname>
+                <given-names>Y</given-names>
+              </name>
+              <name>
+                <surname>Warman</surname>
+                <given-names>ML</given-names>
+              </name>
+              <collab>Osteoporosis-Pseudoglioma Syndrome Collaborative Group</collab>
+          </person-group>
+          <year iso-8601-date="2001">2001</year>
+          <article-title>LDL receptor-related protein 5 (LRP5) affects bone accrual and eye development</article-title>
+          <source>Cell</source>
+          <volume>107</volume>
+          <fpage>513</fpage>
+          <lpage>523</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0092-8674(01)00571-2</pub-id>
+          <pub-id pub-id-type="pmid">11719191</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib4">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+                <surname>Summerfield</surname>
+                <given-names>J W</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>Understanding the internals of open source XML editing tools</article-title>
+          <source>eLife</source>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

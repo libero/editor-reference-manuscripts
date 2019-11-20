@@ -13,22 +13,73 @@
   <back>
     <ref-list>
       <title>References</title>
-        <ref id="bib1">
-          <element-citation publication-type="book">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Feyerabend</surname>
-                <given-names>PK</given-names>
-              </name>
-            </person-group>
-            <year iso-8601-date="2010">2010</year>
-            <source>Against Method</source>
-            <edition>4th Edition</edition>
-            <publisher-loc>London</publisher-loc>
-            <publisher-name>Verso</publisher-name>
-            <pub-id pub-id-type="isbn">978-1844674428</pub-id>
-          </element-citation>
-        </ref>
+      <ref id="bib1">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Feyerabend</surname>
+              <given-names>PK</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2010">2010</year>
+          <source>Against Method</source>
+          <edition>4th Edition</edition>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Verso</publisher-name>
+          <pub-id pub-id-type="isbn">978-1844674428</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib2">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hogarth</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Jaroszz</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Butler</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2012">2012</year>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Butler</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Healy</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <source>Applied Radiological Anatomy</source>
+          <edition>2nd Edition</edition>
+          <publisher-loc>Cambridge, United Kingdom</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <pub-id pub-id-type="isbn">9780511977930</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="bib3">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Summerfield</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <year iso-8601-date="2010">2019</year>
+          <source>Texture</source>
+          <publisher-name>eLife</publisher-name>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>
