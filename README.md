@@ -21,5 +21,8 @@ Repository to store various manuscripts used for development and testing.
 * 00012 - Example eLife Insight article with a reference 'website' citation.
 * 00013 - Example eLife Insight article with a reference 'thesis' citation.
 
+* 00020 - Example eLife Insight article with an example 'acknowlegment' element.
+* 00021 - Example eLife Insight article with multiple example 'acknowlegment' elements.
+
 ## Body
 * 00101 - Example eLife Insight article with a complete reference 'body' section.
