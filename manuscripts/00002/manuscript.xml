@@ -111,6 +111,17 @@
           <source>eLife</source>
         </element-citation>
       </ref>
+      <ref id="bib5">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>Summerfield Inc</collab>
+          </person-group>
+          <year iso-8601-date="2019">2019</year>
+          <article-title>A system to identify coral in situ</article-title>
+          <source>eLife</source>
+          <comment>In press</comment>
+        </element-citation>
+      </ref>
     </ref-list>
   </back>
 </article>

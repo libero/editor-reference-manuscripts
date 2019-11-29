@@ -63,12 +63,23 @@
                 <surname>Summerfield</surname>
                 <given-names>JW</given-names>
               </name>
-              <collab>J S W Enterprises Ltd</collab>
             </person-group>
             <year iso-8601-date="2019">2019</year>
             <chapter-title>Getting Started</chapter-title>
             <source>Libero Editor</source>
             <publisher-name>eLife Sciences Ltd</publisher-name>
+          </element-citation>
+        </ref>
+        <ref id="bib3">
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <collab>Summerfield Inc</collab>
+            </person-group>
+            <year iso-8601-date="2020">2020</year>
+            <chapter-title>Smart selection based on environmental conditions</chapter-title>
+            <source>A system to identify and record coral in situ</source>
+            <publisher-name>eLife Sciences Ltd</publisher-name>
+            <comment>In press</comment>
           </element-citation>
         </ref>
       </ref-list>
