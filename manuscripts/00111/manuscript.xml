@@ -19,8 +19,8 @@
         <copyright-statement xml:lang="en">© 2010 Verso</copyright-statement>
         <copyright-year>2015</copyright-year>
         <copyright-holder xml:lang="en">Verso</copyright-holder>
-        <license xml:lang="en">
-          <license-p>Panel A reprinted from <xref ref-type="bibr" rid="bib2">Feyerabend (2010)</xref> with permission.</license-p>
+        <license xml:lang="en" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>Panel A reprinted from Somewhere with permission.</license-p>
         </license>
       </permissions>
       <permissions>
