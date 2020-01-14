@@ -3,9 +3,8 @@
   <front>
     <article-meta>
       <title-group>
-        <article-title>Example eLife article with some related article entries</article-title>
+        <article-title>Example eLife article with some 'related article' elements</article-title>
       </title-group>
-      <abstract />
       <related-article ext-link-type="doi" id="ra1" related-article-type="commentary-article" xlink:href="10.7554/eLife.42697"/>
       <related-article ext-link-type="doi" id="ra2" related-article-type="commentary-article" xlink:href="10.7554/eLife.00067"/>
     </article-meta>
