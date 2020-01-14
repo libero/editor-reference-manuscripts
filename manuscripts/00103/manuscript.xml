@@ -118,7 +118,7 @@
           </abstract>
           <!-- Impact statement, which in Insights is the same as the abstract -->
           <abstract abstract-type="toc">
-            <p>New studies examine how the different sub-structures in the <italic>sed nisi</italic> neque<sub>2</sub>, ornare id enim<sup>1</sup> et, dapibus rutrum urna.</p>
+            <p>Meh New studies examine how the different sub-structures in the <italic>sed nisi</italic> neque<sub>2</sub>, ornare id enim<sup>1</sup> et, dapibus rutrum urna.</p>
           </abstract>
           <kwd-group kwd-group-type="author-keywords">
             <kwd>cerebellum</kwd>
@@ -159,7 +159,7 @@
         <title>Bacterial cells on the surface of a plant leaf.</title>
         <p>Pellentesque porta interdum sodales (<xref ref-type="bibr" rid="bib6">Heissler and Sellers, 2016a</xref>). Vestibulum<sub>id</sub> interdum<sup>felis</sup>. <bold>Vestibulum</bold> at <underline>viverra</underline> lorem. <sc>Aliquam Gravida</sc> nulla orci, quis tristique tortor ornare at <ext-link ext-link-type="uri" xlink:href="https://www.biobam.com/">https://www.biobam.com/</ext-link>. Pellentesque accumsan sed ipsum eget hendrerit (<xref ref-type="bibr" rid="bib3">Foley et al., 2018</xref>). Pellentesque cursus, nibh eu <monospace>mattis condimentum</monospace>, massa libero faucibus enim, et tempor orci neque eget<sup>mi</sup>. Phasellus lacus<sub>mi</sub>, ultrices quis placerat id, dignissim ac erat.</p>
       </caption>
-      <graphic mime-subtype="x-tiff" mimetype="image" xlink:href="elife-00002-fig1.tif"/>
+      <graphic mime-subtype="jpg" mimetype="image" xlink:href="fig1.jpg"/>
     </fig>
     <p>Etiam nunc eros, porttitor tincidunt libero eu (<xref ref-type="bibr" rid="bib10">Li, 2013</xref>), varius pretium nibh (<xref ref-type="bibr" rid="bib12">Miller et al., 2011</xref>; <xref ref-type="bibr" rid="bib14">Murray et al., 2019</xref>; <xref ref-type="bibr" rid="bib15">Onoda, 2015</xref>). Curabitur nibh libero, gravida eu ex vel, rhoncus finibus est. Aliquam viverra augue vel posuere tempus (proin pharetra posuere eros vitae semper [<xref ref-type="bibr" rid="bib11">Linares, 2019</xref>]). Duis aliquam ac ex non tristique. Nulla dignissim vel ipsum at vulputate (<xref ref-type="bibr" rid="bib13">Mulvihill, 2010</xref>; <xref ref-type="bibr" rid="bib22">World Health Organization, 2015</xref>). Nam orci ipsum, dapibus ac sagittis non, blandit non enim (<xref ref-type="bibr" rid="bib16">R Development Core Team, 2014</xref>).</p>
     <p>Phasellus ac nisl a erat congue fringilla/fringilla. Maecenas nulla leo <xref ref-type="bibr" rid="bib26">Zz et al. (2019)</xref>, viverra ut tortor at, tristique maximus urna. Aenean commodo mauris sapien, a vulputate sapien porttitor nec (see <xref ref-type="fig" rid="fig1 fig2">Figures 1 and 2</xref>). Integer id aliquam libero. Duis euismod velit augue, id ultricies enim varius sit amet.</p>
@@ -168,7 +168,7 @@
       <caption>
         <title>The dynamics of memory T cells.</title>
       </caption>
-      <graphic xlink:href="elife-00002-fig2.tif" mimetype="image" mime-subtype="x-tiff"/>
+      <graphic xlink:href="fig2.jpg" mimetype="image" mime-subtype="jpg"/>
       <permissions>
         <copyright-statement xml:lang="en">© 2010 Verso</copyright-statement>
         <copyright-year>2015</copyright-year>
@@ -194,7 +194,7 @@
       <caption>
         <title>Rats raised socially seek out more new experiences and their cells age more slowly.</title>
       </caption>
-      <graphic mime-subtype="x-tiff" mimetype="image" xlink:href="elife-00002-fig3.tif"/>
+      <graphic mime-subtype="jpg" mimetype="image" xlink:href="fig3.jpg"/>
       <attrib>Image credit: Peggy Mason</attrib>
     </fig>
     <list list-type="order">
