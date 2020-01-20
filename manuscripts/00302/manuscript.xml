@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN"  "JATS-archivearticle1.dtd">
+<article article-type="article-commentary" dtd-version="1.2" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title>Example eLife Insight article with detailed author information</article-title>
+      </title-group>
+      <contrib-group content-type="authors">
+        <contrib contrib-type="author" corresp="yes">
+          <name><surname>Atherden</surname><given-names>Fred</given-names></name>
+          <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6048-1470</contrib-id>
+          <email>f.atherden@elifesciences.org</email>
+          <xref ref-type="fn" rid="con1"/>
+          <bio><p><bold>Fred Atherden</bold> is in the Production Department, eLife Sciences, Cambridge, United Kingdom</p></bio>
+        </contrib>
+        <contrib contrib-type="author">
+          <name><surname>Surname</surname><given-names>Given names</given-names></name>
+          <xref ref-type="fn" rid="con2"/>
+          <bio><p><bold>Given names Surname</bold> is in the Department, University, City, Country</p></bio>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn fn-type="COI-statement" id="con1">
+          <p>Is an employee of eLife. No other competing interests exist</p>
+        </fn>
+        <fn fn-type="COI-statement" id="con2">
+          <p>No competing interests declared</p>
+        </fn>
+      </author-notes>
+    </article-meta>
+  </front>
+  <body>
+  </body>
+  <back>
+  </back>
+</article>
