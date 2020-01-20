@@ -26,7 +26,7 @@
           <institution content-type="dept">Production Department</institution>
           <institution>eLife Sciences</institution>
           <addr-line>
-            <city>>Cambridge</city>
+            <city>Cambridge</city>
           </addr-line>
           <country>United Kingdom</country>
         </aff>
@@ -35,7 +35,7 @@
           <institution content-type="dept">Department</institution>
           <institution>University</institution>
           <addr-line>
-            <city>>City</city>
+            <city>City</city>
           </addr-line>
           <country>Country</country>
         </aff>
