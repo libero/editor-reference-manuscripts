@@ -10,14 +10,35 @@
           <name><surname>Atherden</surname><given-names>Fred</given-names></name>
           <contrib-id authenticated="true" contrib-id-type="orcid">https://orcid.org/0000-0002-6048-1470</contrib-id>
           <email>f.atherden@elifesciences.org</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
           <xref ref-type="fn" rid="con1"/>
           <bio><p><bold>Fred Atherden</bold> is in the Production Department, eLife Sciences, Cambridge, United Kingdom</p></bio>
         </contrib>
         <contrib contrib-type="author">
           <name><surname>Surname</surname><given-names>Given names</given-names></name>
+          <xref ref-type="aff" rid="aff2">2</xref>
           <xref ref-type="fn" rid="con2"/>
           <bio><p><bold>Given names Surname</bold> is in the Department, University, City, Country</p></bio>
         </contrib>
+        <aff id="aff1">
+          <label>1</label>
+          <institution content-type="dept">Production Department</institution>
+          <institution>eLife Sciences</institution>
+          <addr-line>
+            <city>>Cambridge</city>
+          </addr-line>
+          <country>United Kingdom</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution content-type="dept">Department</institution>
+          <institution>University</institution>
+          <addr-line>
+            <city>>City</city>
+          </addr-line>
+          <country>Country</country>
+        </aff>
       </contrib-group>
       <author-notes>
         <fn fn-type="COI-statement" id="con1">
