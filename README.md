@@ -32,3 +32,7 @@ Repository to store various manuscripts used for development and testing.
 ## Front
 
 - 00202 - Example eLife article with some 'related article' elements.
+
+## Typesetting Instructions
+
+- 46294 - An example article that includes processing instructions used when generating a PDF.
